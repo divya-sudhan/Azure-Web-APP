@@ -1,0 +1,10 @@
+variable "resource_group_name" {}
+variable "location" {}
+variable "vnet_name" {}
+variable "address-space" {}
+variable "pub_sub_1_a_prefixes" {}
+variable "pub_sub_2_b_prefixes" {}
+variable "pri_sub_3_a_prefixes" {}
+variable "pri_sub_4_b_prefixes" {}
+variable "pri_sub_5_a_prefixes" {}
+variable "pri_sub_6_b_prefixes" {}
